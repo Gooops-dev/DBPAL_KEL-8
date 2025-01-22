@@ -5,3 +5,4 @@ Optimalisasi Prediksi Infeksi AIDS Menggunakan Random Forest dan Gradient Boosti
 3. Rikza Nuvuwa Nada(22.11.5392)
 4. Daffa Fadhil R (22.11.5308)
 5. M Hilmy R D (23.21.1579)
+6. Bima Handriano Putra (22.11.5258)
